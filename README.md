@@ -1,4 +1,4 @@
 # Internship
 To obtain a basic payment page where the user can select the amount and paid using modern technologies.
-example: Gpay,PayPal,Credit Card.
+eg. Gpay,PayPal,Credit Card.
 Languages used are HTML,CSS,Javascript.
